@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="100" height="100" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="Background" tilewidth="32" tileheight="32">
+  <image source="background.png" trans="ff00ff" width="1024" height="1024"/>
+ </tileset>
+ <layer name="Background" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt00ENgEAAA8FLwAn41wguuo95NGOge51z7n8XEz7/XmZc/4H6KLv+A/VRdv0H6qPs+g/UR9n1H6iPsus/UB9l13+gPsqu/0B9lF3/gfoou/4D9VF2/Qfqo+z6D9RH2fUfqI+y6z9QH2XXf6A+yq7/QH2UXf+B+ii7/gP1UXb9B+qj7PoP1EfZ9R+oj7LrP1AfZdd/oD7Krv9AfZRd/4H6KLv+A/VRdv0H6qPs+g/UR9n1H6iPsus/UB9l13+gPsqu/0B9lF3/gfoou/4D9VF2/Qfqo+z6D9RH2fUfqI+y6z9QH2XXf6A+yq7/QH2UXf+B+ii7/gP1UXb9B+qj7PoP1EfZ9R+oj7LrP1AfZdd/oD7Krv9AfZRd/4H6KPsB6wD51w==
+  </data>
+ </layer>
+ <layer name="Collision" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJztnUeOHDEUQ7ud08rhAM5xZY8P4BxXDhdxuIjDAcf2OB/C3KrcgEBQglhdfAAXA0m/e7T4v1lc1N5qtfoO/YB+Qr+g39Af6C+0J67vQl+gr9C3Dfu37bxa7+B6tToEHYaOQEehY9Bx6MRaX19D+6D90IEN+7ftvFrvInQJugxdga5C16Dr0I0G62ehc9B56MKG/dt2Xq33AHoIPYIeQ0+gp9Az6HmD9TvQXegedH/D/m07r9bbnVl/dj+v1ptbf3Y/r9abW392P6/Wm1t/dj+v1uvdX5e2rtbr3V+Xtq7W691fl7au1uvdX5e2rtbbFedDzsd/OJ+P//A6H//hdb63/6ith5LR+UcoUeeV+ns5lKjzSv29HEpG5x+hRL1P9fdyKBntP0LJaP8RSkbnH6FkdP4RSkbnH6FkdP4RSkbnH6FEvc/4j7bEf3gR/+FF8g8vkn94kfzDi+QfXiT/8EK9z/iPtsR/eBH/4UXyDy+Sf3iR/MOL5B9eJP/wQr3P+I+2xH94Ef/hRfIPL5J/eJH8w4vkH14k//BCvc/4j7bEf3gR/+FF8g8vkn94kfzDi+QfXiT/8EK9z/iPtsR/eBH/4UXyDy+Sf3iR/MOL5B9eJP/wQr3P+I+2xH94Ef/hRfIPL5J/eDGn/OMkdAo6DZ3pcBcOzCn/uAndgnag2x3uwgHVz7H9bjpPGF5AL6FX0OsG/7sjtXmrzo/p+nSeMLyB3kLvoPcN/ndHVP/B9rvpPGH4AH2EPkGfO9yFA6r/YPvddJ6EEtV/qP0ulKh+Ls+v2qL6uTy/aovq5/L8qi2qn6v5i1q/CyWt83P2fXqhpHV+zr5PL5S0zs/Z9+mF/+mZn0/X2ef5bH3W/7i/z7Z1fj5dZ5/ns/VZ/8N+nvp9e5+v9bPpOvs8n63P+h/289Tv2/t8rZ9N19nn+Wx91v+wn6d+397n2f5X21+bL2w/ZeeHWm/0Otv/avtr84Xtp+z8UOuNXmf7X21/bb6w/ZSdH2q90ets/6vtr80Xtp+y80OtN3qdzcunf7P9vFZv6f6Dzctr80Ktt3T/webltXmh1lu6/2Dz8tq8UOst3X/8A1Ce2uc=
+  </data>
+ </layer>
+</map>
